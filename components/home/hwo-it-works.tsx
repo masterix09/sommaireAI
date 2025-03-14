@@ -1,5 +1,4 @@
 import React, { ReactNode } from "react";
-import BGGradient from "../common/bg-gradient";
 import { BrainCircuit, FileOutput, FileText, MoveRight } from "lucide-react";
 
 type Step = {
